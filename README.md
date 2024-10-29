@@ -47,7 +47,7 @@ response from google.com was successfully returned in 12 ms
 Help could be obtained like this:
 
 ```
-java -jar ./target/pingit.jar --help                          
+java -jar ./pingit.jar --help                          
 usage: java -jar testit.jar
 Simple tool that show server latency by pinging it
  -c,--count <arg>   How many times should be ping performed. When this
